@@ -10,5 +10,5 @@ I am known as hube12 or Neil, I have a few more pseudonym but you likely don't k
 - 💬 Ask me about anything minecraft or python related
 - 📫 How to reach me: Neil#4879
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: It's been 12 years
+- ⚡ Fun fact: It's been 12 years since I coded my first application
 
